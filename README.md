@@ -7,9 +7,9 @@ A tool for efficient review
 * Cloud-based savings for generated papers;
 * Detailed solutions available in PDF format;
 
-![alt text](https://imgur.com/EwOPg8c "Logo Title Text 1")
+![alt text](https://i.imgur.com/EwOPg8c.jpg "Logo Title Text 1")
 
-![alt text](https://imgur.com/vBwO36g "Logo Title Text 1")
+![alt text](https://i.imgur.com/vBwO36g.jpg "Logo Title Text 1")
 
 ## Update Log:
 * #bugfix empty question generated for small question pools;
